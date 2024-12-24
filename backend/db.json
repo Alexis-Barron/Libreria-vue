@@ -1,0 +1,148 @@
+{
+  "libros": [
+    {
+      "id": "3",
+      "titulo": "El Arte de la Guerra",
+      "autor": "Sun Tzu",
+      "genero": "Historia",
+      "precio": "5 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "4",
+      "titulo": "Cocina para Todos",
+      "autor": "Luis Gómez",
+      "genero": "Gastronomía",
+      "precio": "7 USD",
+      "disponibilidad": false
+    },
+    {
+      "id": "5",
+      "titulo": "El Bosque Encantado",
+      "autor": "Ana Fernández",
+      "genero": "Aventura",
+      "precio": "6 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "6",
+      "titulo": "Viaje al Centro de la Tierra",
+      "autor": "Julio Verne",
+      "genero": "Ciencia Ficción",
+      "precio": "4 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "7",
+      "titulo": "Relatos Cortos",
+      "autor": "Gabriel Márquez",
+      "genero": "Literatura",
+      "precio": "3 USD",
+      "disponibilidad": false
+    },
+    {
+      "id": "8",
+      "titulo": "Matemáticas Divertidas",
+      "autor": "Carlos Rivas",
+      "genero": "Educación",
+      "precio": "8 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "9",
+      "titulo": "El Espía Invisible",
+      "autor": "María López",
+      "genero": "Suspenso",
+      "precio": "9 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "10",
+      "titulo": "Ciencias Naturales",
+      "autor": "Roberto Martínez",
+      "genero": "Educación",
+      "precio": "10 USD",
+      "disponibilidad": false
+    },
+    {
+      "id": "11",
+      "titulo": "Historias del Mar",
+      "autor": "Esteban Álvarez",
+      "genero": "Aventura",
+      "precio": "7 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "12",
+      "titulo": "Filosofía para Todos",
+      "autor": "Sara Hidalgo",
+      "genero": "Filosofía",
+      "precio": "11 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "13",
+      "titulo": "Guía de Supervivencia",
+      "autor": "Tomás Escobar",
+      "genero": "Aventura",
+      "precio": "12 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "14",
+      "titulo": "El Espacio Exterior",
+      "autor": "Daniel Vega",
+      "genero": "Ciencia",
+      "precio": "15 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "15",
+      "titulo": "Cuentos para Niños",
+      "autor": "Patricia Flores",
+      "genero": "Infantil",
+      "precio": "5 USD",
+      "disponibilidad": false
+    },
+    {
+      "id": "16",
+      "titulo": "El Último Reino",
+      "autor": "Javier Sánchez",
+      "genero": "Fantasía",
+      "precio": "14 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "17",
+      "titulo": "La Ciudad Perdida",
+      "autor": "Lorena Vargas",
+      "genero": "Misterio",
+      "precio": "13 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "18",
+      "titulo": "Poemas del Alma",
+      "autor": "Ignacio Díaz",
+      "genero": "Poesía",
+      "precio": "6 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "19",
+      "titulo": "La Máquina del Tiempo",
+      "autor": "H.G. Wells",
+      "genero": "Ciencia Ficción",
+      "precio": "9 USD",
+      "disponibilidad": true
+    },
+    {
+      "id": "20",
+      "titulo": "El Príncipe",
+      "autor": "Nicolás Maquiavelo",
+      "genero": "Filosofía",
+      "precio": "10 USD",
+      "disponibilidad": true
+    }
+  ]
+}
